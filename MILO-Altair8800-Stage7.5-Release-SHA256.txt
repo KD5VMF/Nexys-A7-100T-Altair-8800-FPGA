@@ -1,0 +1,4 @@
+c5b4580bb2083c89008083480c90d23a45832b43c60f8df42e3a035e5eaa57bb  /mnt/data/MILO-Altair8800-NexysA7-Stage7.5-GitHub-Repo.zip
+e83765245a3aa69595cd04717efd2f2738ed2913b650c7c7f1fc0cfa4557cb37  /mnt/data/MILO-Altair8800-NexysA7-Stage7.5-Complete-Release-Bundle.zip
+a165b5fa51505cab4129d85a029d6adc9d48ee7f47e50f26d9c5805d1e612ab4  /mnt/data/MILO-Altair8800-NexysA7-Stage7.5-GitHub-Release-Bundle/GitHub-Repo/MILO-Altair8800-NexysA7/docs/MILO-Altair8800-Stage7.5-Complete-Manual.pdf
+63b33093116d492dfb285cc5ae3b6c60c963e5c40d7493078ee4c3bc5f14488e  /mnt/data/MILO-Altair8800-NexysA7-Stage7.5-GitHub-Release-Bundle/GitHub-Repo/MILO-Altair8800-NexysA7/docs/MILO-Altair8800-Stage7.5-Complete-Manual.docx
