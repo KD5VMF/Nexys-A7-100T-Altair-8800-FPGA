@@ -1,6 +1,6 @@
 <div align="center">
 
-# MILO Altair 8800 FPGA
+# Nexys A7-100T Altair 8800 FPGA
 
 ### A hardware-verified Intel 8080 / MITS Altair 8800 computer for the Digilent Nexys A7-100T
 
